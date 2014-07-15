@@ -4,10 +4,9 @@
 Plugin Name: TJ Scroller
 Plugin URI: http://www.theme-junkie.com/
 Description: This plugin will add a scroll to top functionality in your website. 
-Author: MD: Nahidul Islam Tanvir
+Author: Theme Junkie
 Version: 1.0
-Author URI: https://twitter.com/TanvirFocus
-*/
+Author URI: http://www.theme-junkie.com
 
 //Exit if accessed directly
 if ( ! defined( 'ABSPATH' ) ) exit;
