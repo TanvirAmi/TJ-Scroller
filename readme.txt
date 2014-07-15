@@ -1,4 +1,4 @@
-______TJ Scroller______
+==TJ Scroller==
 
 Tags: scroll to top, scroll up, page, scroll up, scroll, up, navigation, back to top, 
 back, to, top, scroll to top
@@ -13,13 +13,13 @@ TJ scroller is an simple lightweight plugin (only 12 KB) for your wordpress webs
 So there take no effect on page loading
 
 
-______Description_______
+==Description==
 
 This plugin will add a scroll to top functionality.
 After installiation you can see a button on footer right.
 
 
-______Installation______
+==Installation==
 
 This section describes how to install the plugin and get it working.
 
@@ -32,10 +32,9 @@ e.g.
 
 
 
-_______Changelog________
+==Changelog==
 
 Version: 1.0
 * Initial Release
-_________________________________________________________________________
-###                            Thanks                                 ###
-_________________________________________________________________________
+
+==Thanks==
