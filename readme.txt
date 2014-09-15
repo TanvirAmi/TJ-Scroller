@@ -31,6 +31,14 @@ e.g.
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3.You have done.
 
+= Support =
+
+* Get [support](tanvir.focus@gmail.com)
+
+= Plugin Info =
+* Developed by [Tanvir](https://twitter.com/TanvirFocus) & [Theme Junkie](http://www.theme-junkie.com/)
+* Check out the [Github](https://github.com/TanvirAmi/TJ-Scroller/) repo to contribute.
+
 
 
 
