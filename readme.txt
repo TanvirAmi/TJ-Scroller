@@ -8,8 +8,8 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-TJ scroller is an simple lightweight plugin (only 12 KB) for your wordpress website.
-So there take no effect on page loading
+TJ Scroller is an ultra-lightweight WordPress plugin, sized at just 12 KB. It is designed for optimal performance, ensuring smooth scrolling functionality without affecting your website's page load time.
+
 
 ==Description==
 
